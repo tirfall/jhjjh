@@ -1,0 +1,17 @@
+C:\Users\opilane\source\repos\Aleksander Rogovski TARpv22\GeoMapGameLabor3\obj\Debug\net6.0-windows\GeoMapGameLabor3.csproj.AssemblyReference.cache
+C:\Users\opilane\source\repos\Aleksander Rogovski TARpv22\GeoMapGameLabor3\obj\Debug\net6.0-windows\GeoMapGameLabor3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\Aleksander Rogovski TARpv22\GeoMapGameLabor3\obj\Debug\net6.0-windows\GeoMapGameLabor3.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Aleksander Rogovski TARpv22\GeoMapGameLabor3\obj\Debug\net6.0-windows\GeoMapGameLabor3.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Aleksander Rogovski TARpv22\GeoMapGameLabor3\obj\Debug\net6.0-windows\GeoMapGameLabor3.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Aleksander Rogovski TARpv22\GeoMapGameLabor3\bin\Debug\net6.0-windows\GeoMapGameLabor3.exe
+C:\Users\opilane\source\repos\Aleksander Rogovski TARpv22\GeoMapGameLabor3\bin\Debug\net6.0-windows\GeoMapGameLabor3.deps.json
+C:\Users\opilane\source\repos\Aleksander Rogovski TARpv22\GeoMapGameLabor3\bin\Debug\net6.0-windows\GeoMapGameLabor3.runtimeconfig.json
+C:\Users\opilane\source\repos\Aleksander Rogovski TARpv22\GeoMapGameLabor3\bin\Debug\net6.0-windows\GeoMapGameLabor3.dll
+C:\Users\opilane\source\repos\Aleksander Rogovski TARpv22\GeoMapGameLabor3\bin\Debug\net6.0-windows\GeoMapGameLabor3.pdb
+C:\Users\opilane\source\repos\Aleksander Rogovski TARpv22\GeoMapGameLabor3\obj\Debug\net6.0-windows\GeoMapGameLabor3.dll
+C:\Users\opilane\source\repos\Aleksander Rogovski TARpv22\GeoMapGameLabor3\obj\Debug\net6.0-windows\refint\GeoMapGameLabor3.dll
+C:\Users\opilane\source\repos\Aleksander Rogovski TARpv22\GeoMapGameLabor3\obj\Debug\net6.0-windows\GeoMapGameLabor3.pdb
+C:\Users\opilane\source\repos\Aleksander Rogovski TARpv22\GeoMapGameLabor3\obj\Debug\net6.0-windows\GeoMapGameLabor3.genruntimeconfig.cache
+C:\Users\opilane\source\repos\Aleksander Rogovski TARpv22\GeoMapGameLabor3\obj\Debug\net6.0-windows\ref\GeoMapGameLabor3.dll
+C:\Users\opilane\source\repos\Aleksander Rogovski TARpv22\GeoMapGameLabor3\obj\Debug\net6.0-windows\GeoMapGameLabor3.EuropeCountry.resources
+C:\Users\opilane\source\repos\Aleksander Rogovski TARpv22\GeoMapGameLabor3\obj\Debug\net6.0-windows\GeoMapGameLabor3.csproj.GenerateResource.cache
